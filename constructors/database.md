@@ -23,7 +23,7 @@ db.pull('items', 'item1')// -> 'item2', as we pushed 2 items before.
 })
 ```
 
-###                                          FUNCTIONS WITH 2 PARAMS
+###                                                          FUNCTIONS
 
 {% tabs %}
 {% tab title="add" %}
@@ -66,6 +66,18 @@ db.pull('pushing', 'PUSH1');
 /*
 Works only if there was an 
 ```
+{% endtab %}
+
+{% tab title="" %}
+Required Params - `key, value`
+
+```javascript
+db.fetch('key')
+```
+{% endtab %}
+
+{% tab title="fetch" %}
+
 {% endtab %}
 {% endtabs %}
 

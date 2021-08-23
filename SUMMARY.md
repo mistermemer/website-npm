@@ -8,6 +8,7 @@
 
 * [BlackJack](blackjack.md)
 * [Akinator](akinator.md)
+* [Button Calculator](btncalc.md)
 * [Covid](covid.md)
 * [TicTacToe](tictactoe.md)
 * [Meme](meme.md)
