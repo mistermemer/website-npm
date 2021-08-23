@@ -14,3 +14,7 @@
 * [QuickClick](quickclick.md)
 * [Betting](bet.md)
 
+## Constructors
+
+* [Untitled](constructors/untitled.md)
+
