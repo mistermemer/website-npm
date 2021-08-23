@@ -6,5 +6,6 @@
 * [Covid](covid.md)
 * [QuickClick](quickclick.md)
 * [Betting](bet.md)
+* [TicTacToe](tictactoe.md)
 * [Meme](meme.md)
 
